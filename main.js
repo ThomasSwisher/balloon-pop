@@ -1,7 +1,7 @@
 
 // #region GAME LOGIC AND DATA    
 
-//DATA
+//DATA 
 let clickCount = 0
 let height = 120
 let width = 100
